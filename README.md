@@ -16,3 +16,5 @@ Pour notre projet, nous utilisons la base de données des formations de Parcours
 PreParcoursup est le résultat du travail acharné d'une équipe passionnée. Notre objectif est de rendre le processus d'inscription à l'enseignement supérieur plus transparent, équitable et personnalisé pour tous les étudiants. Nous croyons en un avenir éducatif meilleur et sommes déterminés à contribuer positivement à cette cause.
 
 _Ensemble, réparons Parcoursup et créons un système éducatif plus juste pour tous !_
+
+Pour plus d'informations voir: [Article wikiRennes](https://www.wiki-rennes.fr/Hackathon_:_R%C3%A9parer_Parcoursup%3F)
